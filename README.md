@@ -43,6 +43,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zead-Ashraf&theme=onestar&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zead-Ashraf&theme=highcontrast)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zead-Ashraf&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
