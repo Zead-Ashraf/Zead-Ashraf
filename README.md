@@ -45,13 +45,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <img alt="github contribution snake animation" src="https://github.com/Zead-Ashraf/Zead-Ashraf/blob/output/github-contribution-grid-snake.svg">
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zead-Ashraf&theme=react-dark)](https://github.com/Zead-Ashraf/github-readme-activity-graph)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zead-Ashraf&theme=onestar&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zead-Ashraf&theme=highcontrast)](https://git.io/streak-stats)
 
+<br/>
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zead-Ashraf&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zead-Ashraf&layout=compact&theme=chartreuse-dark)](https://github.com/Zead-Ashraf/github-readme-stats)
 
@@ -70,3 +76,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
