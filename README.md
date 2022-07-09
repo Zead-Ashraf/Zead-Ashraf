@@ -43,6 +43,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
+<img alt="github contribution snake animation" src="https://github.com/Zead-Ashraf/Zead-Ashraf/blob/output/github-contribution-grid-snake.svg">
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zead-Ashraf&theme=react-dark)](https://github.com/Zead-Ashraf/github-readme-activity-graph)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zead-Ashraf&theme=onestar&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zead-Ashraf&theme=highcontrast)](https://git.io/streak-stats)
