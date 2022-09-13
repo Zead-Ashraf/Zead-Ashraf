@@ -15,7 +15,7 @@
   </a>
 </div>
 <div  align="center">
-   <img src="https://komarev.com/ghpvc/?username=Zead-Ashraf&style=flat-square&color=blue" alt="profiles views"/>
+   <img src="https://komarev.com/ghpvc/?username=Zead-Ashraf&style=for-the-badge&color=blue" alt="profiles views"/>
 </div>
 
 ### :technologist: About Me :
