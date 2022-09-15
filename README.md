@@ -49,6 +49,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <br/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br/>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zead-Ashraf&theme=highcontrast)](https://git.io/streak-stats)
 
